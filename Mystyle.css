@@ -1,0 +1,29 @@
+.mynav{
+	background-color: blue;
+	color: white;
+}
+
+img{
+	width: 100%;
+
+}
+
+.section1{
+
+	margin-top: 5px;
+	background-color: red;
+
+}
+body{
+	background-color: yellow;
+}
+.Good{
+background-color: pink;
+
+}
+.dev{
+	font-size:60px;
+}
+.com{
+	font-size:20px;
+}
